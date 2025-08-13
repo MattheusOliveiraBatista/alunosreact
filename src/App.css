@@ -1,0 +1,17 @@
+#espacamento{
+    margin-right:5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.App{
+    text-align: center;
+}
+#btnIncluir{
+    text-align: left;
+ margin-right:5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
